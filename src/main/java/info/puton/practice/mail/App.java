@@ -1,4 +1,4 @@
-package info.puton.practice;
+package info.puton.practice.mail;
 
 /**
  * Hello world!
